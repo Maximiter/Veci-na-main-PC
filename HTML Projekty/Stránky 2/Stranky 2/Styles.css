@@ -1,0 +1,48 @@
+h1  {
+    text-align: center;font-size: 300%;font-family: arial;
+}
+p  {
+    text-align: center;font-size: 150%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .center-picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.center-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+dd  {
+    text-align:left; font-family: Arial;font-weight: bold;
+    
+}
+
+a  {
+    text-align:center;font-weight: bold;
+    
+}
+
+h2  {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 300%; 
+    background-color: rgb(107, 107, 107); font-family: arial; 
+}
+
+
+
+
+

@@ -1,0 +1,19 @@
+h1  {
+    text-align: center;color: rgb(255, 8, 0);background-color: black;font-size: 300%;
+}
+h2  {
+    text-align: left;background-color: aqua;font-style: italic;
+}
+/*class*/
+.bold {
+    font-weight: bold;
+    color: violet;
+    font-size: 200%;
+}    
+h3  {
+    text-align: center; color: olivedrab;font-size: 150%;
+  
+}
+h4 {
+    text-align: right;color: rgb(54, 49, 19);
+}
